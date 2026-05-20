@@ -9,8 +9,11 @@ Step 1: Installation:
 -> pip install Flask
 
 Step 2:  Create following folders structure 
-<img width="245" height="237" alt="dsf" src="https://github.com/user-attachments/assets/7fc34fc2-ef60-480c-8beb-c9d5c18c8820" />
-
+todo_app/
+│
+├── app.py
+├── templates/
+│   └── index.html
 
 Step 3: Flask Application Code
 -> app.py
